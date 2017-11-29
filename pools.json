@@ -282,7 +282,7 @@
         },
         "/WATERHOLE.IO/" : {
             "name" : "Waterhole",
-            "link" : "https://btc.waterhole.io/"
+            "link" : "https://bch.waterhole.io/"
         },
         "/BTC.COM/" : {
             "name" : "BTC.com",
@@ -550,9 +550,13 @@
             "name" : "BitcoinIndia",
             "link" : "https://pool.bitcoin-india.org/"
         },
-        "1FLH1SoLv4U68yUERhDiWzrJn5TggMqkaZ" : {
+        "1JN8ZRMxALcX4FL7QazE7byrKEQwYc9zsL" : {
             "name" : "Waterhole",
-            "link" : "https://btc.waterhole.io/"
+            "link" : "https://bch.waterhole.io/"
+        },
+        "1AGbhdTBYVamP7TGQsJGZzUKBF3wMrGK5x" : {
+            "name" : "Waterhole",
+            "link" : "https://bch.waterhole.io/"
         },
         "1GP8eWArgpwRum76saJS4cZKCHWJHs9PQo" : {
             "name" : "CanoePool",
