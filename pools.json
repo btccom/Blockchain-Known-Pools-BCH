@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/E2M & BTC.TOP/": {
+            "name": "Easy2Mine",
+            "link": "http://www.easy2mine.com/"
+        },
         "/BTC.TOP/": {
             "name" : "BTC.TOP",
             "link" : "http://www.btc.top/"
