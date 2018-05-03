@@ -1,5 +1,13 @@
 {
     "coinbase_tags" : {
+        "/SBI Crypto/": {
+            "name": "SBI Crypto",
+            "link": ""
+        },
+        "/rawpool/": {
+            "name": "rawpool",
+            "link": ""
+        },
         "/Huobi/": {
             "name": "Huobi.pool",
             "link": "https://www.poolhb.com/"
