@@ -4,9 +4,13 @@
             "name": "SBI Crypto",
             "link": ""
         },
+        "/Rawpool.com/": {
+            "name" : "Rawpool.com",
+            "link" : "https://www.rawpool.com/"
+        },
         "/rawpool/": {
-            "name": "rawpool",
-            "link": ""
+            "name": "Rawpool.com",
+            "link": "https://www.rawpool.com/"
         },
         "/Huobi/": {
             "name": "Huobi.pool",
@@ -597,6 +601,10 @@
         "199EDJoCpqV672qESEkfFgEqNT1iR2gj3t" : {
             "name" : "58COIN",
             "link" : "https://www.58coin.com/"
+        },
+        "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b" : {
+            "name" : "Rawpool.com",
+            "link" : "https://www.rawpool.com/"
         }
     }
 }
