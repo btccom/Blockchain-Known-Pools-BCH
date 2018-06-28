@@ -1,5 +1,9 @@
 {
     "coinbase_tags" : {
+        "/Multipool.us/": {
+            "name": "Multipool.us",
+            "link": "https://www.multipool.us/dashboard/pool/bch"
+        },
         "/SBI Crypto/": {
             "name": "SBI Crypto",
             "link": ""
