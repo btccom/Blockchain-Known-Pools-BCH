@@ -8,6 +8,10 @@
             "name": "SBI Crypto",
             "link": ""
         },
+        "/coingeek.com/" : {
+            "name": "Coingeek",
+            "link": "https://coingeek.com/"
+        },
         "/Rawpool.com/": {
             "name" : "Rawpool.com",
             "link" : "https://www.rawpool.com/"
@@ -609,6 +613,10 @@
         "1FbBbv5oYqFKwiPm4CAqvAy8345n8AQ74b" : {
             "name" : "Rawpool.com",
             "link" : "https://www.rawpool.com/"
+        },
+        "1AMAy9Fc3rMMKPYNdLRF7Hi7RBZCp2GanM" : {
+            "name" : "Coingeek",
+            "link" : "https://coingeek.com/"
         }
     }
 }
