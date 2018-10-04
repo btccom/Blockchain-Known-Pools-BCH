@@ -343,6 +343,10 @@
         "/Mined by HashBX.io/" : {
             "name": "HashBX",
             "link": "https://hashbx.io"
+        },
+        "/GMO-Z.com/": {
+            "name": "GMO-Z.com",
+            "link": "https://mining.gmo.jp/"
         }
     },
     "payout_addresses" : {
