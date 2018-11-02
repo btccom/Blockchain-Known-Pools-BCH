@@ -343,6 +343,18 @@
         "/Mined by HashBX.io/" : {
             "name": "HashBX",
             "link": "https://hashbx.io"
+        },
+        "/svpool.com/" : {
+            "name": "svpool",
+            "link": "https://svpool.com/"
+        },
+        "/okminer/" : {
+            "name": "okminer",
+            "link": ""
+        },
+        "/Northern Bitcoin/" : {
+            "name": "Northern Bitcoin",
+            "link": "https://northernbitcoin.com/"
         }
     },
     "payout_addresses" : {
