@@ -653,6 +653,10 @@
         "1JXYt4rjwrLRs5W76FWQhqf6BJ8nv1r7zG" : {
             "name" : "Mempool.com",
             "link" : ""
+        },
+        "1DorBy7XZ8dbDTwtEGZqkshz99Jxq2WqYA" : {
+            "name" : "EMCD",
+            "link" : "https://emcd.io/"
         }
     }
 }
