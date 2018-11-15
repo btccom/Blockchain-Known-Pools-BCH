@@ -355,6 +355,14 @@
         "/Northern Bitcoin/" : {
             "name": "Northern Bitcoin",
             "link": "https://northernbitcoin.com/"
+        },
+        "/bmgpool.com/": {
+            "name" : "bmgpool.com",
+            "link" : ""
+        },
+        "Hello Mempool.com": {
+            "name" : "Mempool.com",
+            "link" : ""
         }
     },
     "payout_addresses" : {
@@ -633,6 +641,18 @@
         "1DvWzc7bwondMCW63uAVv7eNzRDVr4MVz7" : {
             "name" : "VVPool",
             "link" : "https://www.vvpool.com/"
+        },
+        "1NgniwmLb1DUBFYi5k3R5P5uswnbW1Uhah" : {
+            "name" : "okminer",
+            "link" : ""
+        },
+        "1Bgy4RjZdCQ93uiMFZMTpUR8BveGTetsdt" : {
+            "name" : "bmgpool.com",
+            "link" : ""
+        },
+        "1JXYt4rjwrLRs5W76FWQhqf6BJ8nv1r7zG" : {
+            "name" : "Mempool.com",
+            "link" : ""
         }
     }
 }
