@@ -363,6 +363,14 @@
         "Hello Mempool.com": {
             "name" : "Mempool.com",
             "link" : ""
+        },
+        "/DPOOL.TOP/": {
+            "name" : "DPOOL.TOP",
+            "link" : ""
+        },
+        "copernet.io": {
+            "name" : "copernet.io",
+            "link" : "https://copernet.io"
         }
     },
     "payout_addresses" : {
@@ -657,6 +665,10 @@
         "1DorBy7XZ8dbDTwtEGZqkshz99Jxq2WqYA" : {
             "name" : "EMCD",
             "link" : "https://emcd.io/"
+        },
+        "1769USywmGhjSH2hzy61nHDuNQifvTksy7" : {
+            "name" : "prohashing.com",
+            "link" : "https://prohashing.com/"
         }
     }
 }
