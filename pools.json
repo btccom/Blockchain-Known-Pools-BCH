@@ -669,6 +669,18 @@
         "1769USywmGhjSH2hzy61nHDuNQifvTksy7" : {
             "name" : "prohashing.com",
             "link" : "https://prohashing.com/"
+        },
+        "1PZLoyWnJx5MesBtWBJM5G58Cu8hGHoQfK" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
+        "1FoC7PjAqmeUQMdjWqTF5DSXxdgiQuSvBp" : {
+            "name" : "Mining-Dutch",
+            "link" : ""
+        },
+        "1FLKACMVk13vbEfebzNPq1dcARac7xrjKz" : {
+            "name" : "CoinbasePool",
+            "link" : ""
         }
     }
 }
