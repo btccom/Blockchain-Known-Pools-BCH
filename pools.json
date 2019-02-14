@@ -681,6 +681,10 @@
         "1FLKACMVk13vbEfebzNPq1dcARac7xrjKz" : {
             "name" : "CoinbasePool",
             "link" : ""
+        },
+        "3MzYzfv8a9xuDhbYUgzkg6BxhKoTASnrny" : {
+            "name" : "copernet.io",
+            "link" : "https://copernet.io"
         }
     }
 }
