@@ -371,6 +371,26 @@
         "copernet.io": {
             "name" : "copernet.io",
             "link" : "https://copernet.io"
+        },
+        "/www.okpool.top/": {
+            "name" : "okpool.top",
+            "link" : "http://www.okpool.top/"
+        },
+        "/nodeStratum/": {
+            "name" : "nodeStratum",
+            "link" : ""
+        },
+        "zpool.ca": {
+            "name" : "zpool.ca",
+            "link" : "https://zpool.ca/"
+        },
+        "CoinbasePool": {
+            "name" : "CoinbasePool",
+            "link" : ""
+        },
+        "Tencent": {
+            "name" : "Tencent",
+            "link" : ""
         }
     },
     "payout_addresses" : {
@@ -670,6 +690,14 @@
             "name" : "prohashing.com",
             "link" : "https://prohashing.com/"
         },
+        "1KcSdYdo4LJj2n5iHt5Hn3WEJQ6wWyPU3n" : {
+            "name" : "Multipool",
+            "link" : "https://www.multipool.us/"
+        },
+        "1LatFBYXxNnbmk7Sm19uufdB5o3Do3o5xx": {
+            "name" : "zpool.ca",
+            "link" : "https://zpool.ca/"
+        },
         "1PZLoyWnJx5MesBtWBJM5G58Cu8hGHoQfK" : {
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
@@ -685,6 +713,10 @@
         "3MzYzfv8a9xuDhbYUgzkg6BxhKoTASnrny" : {
             "name" : "copernet.io",
             "link" : "https://copernet.io"
+        },
+        "1GsWUdNT6AX7KkWXWbb8g5T1Si1ZPQAwjF" : {
+            "name" : "Smiling Face",
+            "link" : ""
         }
     }
 }
