@@ -24,6 +24,10 @@
             "name": "Huobi.pool",
             "link": "https://www.poolhb.com/"
         },
+        "/HuoBi/": {
+            "name": "Huobi.pool",
+            "link": "https://www.poolhb.com/"
+        },
         "/E2M & BTC.TOP/": {
             "name": "WAYI.CN",
             "link": "http://www.easy2mine.com/"
@@ -390,6 +394,10 @@
         },
         "Tencent": {
             "name" : "Tencent",
+            "link" : ""
+        },
+        "/Satoshi Nakamoto/": {
+            "name" : "Satoshi Nakamoto",
             "link" : ""
         }
     },
