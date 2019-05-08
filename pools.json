@@ -399,6 +399,10 @@
         "/Satoshi Nakamoto/": {
             "name" : "Satoshi Nakamoto",
             "link" : ""
+        },
+        "boomboomboom": {
+            "name" : "Satoshi Nakamoto",
+            "link" : ""
         }
     },
     "payout_addresses" : {
@@ -724,6 +728,14 @@
         },
         "1GsWUdNT6AX7KkWXWbb8g5T1Si1ZPQAwjF" : {
             "name" : "Smiling Face",
+            "link" : ""
+        },
+        "3ArXTXKXR9LwKQRNSQ3pQqdoiRmN5MWhd5" : {
+            "name" : "Satoshi Nakamoto",
+            "link" : ""
+        },
+        "13HK6ZneUknZpQX8LaDBe1VcZmX37hTsQs" : {
+            "name" : "coinbase unknown",
             "link" : ""
         }
     }
