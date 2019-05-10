@@ -4,6 +4,10 @@
             "name": "Multipool.us",
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
+        "Multipool.us": {
+            "name": "Multipool.us",
+            "link": "https://www.multipool.us/dashboard/pool/bch"
+        },
         "/SBI Crypto/": {
             "name": "SBI Crypto",
             "link": ""
@@ -403,6 +407,22 @@
         "boomboomboom": {
             "name" : "Satoshi Nakamoto",
             "link" : ""
+        },
+        "unknown": {
+            "name" : "fake unknown",
+            "link" : ""
+        },
+        "Unknown": {
+            "name" : "fake unknown",
+            "link" : ""
+        },
+        "UNKNOWN": {
+            "name" : "fake unknown",
+            "link" : ""
+        },
+        "ckpool": {
+            "name" : "ckpool",
+            "link" : ""
         }
     },
     "payout_addresses" : {
@@ -735,7 +755,7 @@
             "link" : ""
         },
         "13HK6ZneUknZpQX8LaDBe1VcZmX37hTsQs" : {
-            "name" : "coinbase unknown",
+            "name" : "fake unknown",
             "link" : ""
         }
     }
