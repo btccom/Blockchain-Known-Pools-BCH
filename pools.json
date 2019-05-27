@@ -423,6 +423,10 @@
         "ckpool": {
             "name" : "ckpool",
             "link" : ""
+        },
+        "/poolin.com/" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
         }
     },
     "payout_addresses" : {
@@ -734,6 +738,10 @@
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
         },
+        "1MQTKMVKc8WE7T7aaFBT5rKBgVF4HXzxxF" : {
+            "name" : "Poolin",
+            "link" : "https://www.poolin.com/"
+        },
         "1FoC7PjAqmeUQMdjWqTF5DSXxdgiQuSvBp" : {
             "name" : "Mining-Dutch",
             "link" : ""
@@ -755,6 +763,10 @@
             "link" : ""
         },
         "13HK6ZneUknZpQX8LaDBe1VcZmX37hTsQs" : {
+            "name" : "fake unknown",
+            "link" : ""
+        },
+        "1JKnfhPZyCmfNq3zeTdNU87VBQzLSYG4MS" : {
             "name" : "fake unknown",
             "link" : ""
         }
