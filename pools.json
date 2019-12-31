@@ -381,8 +381,8 @@
             "link" : "https://copernet.io"
         },
         "/www.okpool.top/": {
-            "name" : "okpool.top",
-            "link" : "http://www.okpool.top/"
+            "name" : "OKExPool",
+            "link" : "https://www.okex.com/pool"
         },
         "/nodeStratum/": {
             "name" : "nodeStratum",
