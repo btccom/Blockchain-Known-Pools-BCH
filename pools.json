@@ -5,7 +5,7 @@
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
         "Multipool.us": {
-            "name": "Multipool.us",
+            "name": "Multipool. us",
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
         "/SBI Crypto/": {
@@ -115,6 +115,12 @@
         "CoinLab" : {
             "name" : "CoinLab",
             "link" : "http://coinlab.com/"
+
+        },
+        "11pool" : {
+            "name" : "11pool",
+            "link" : "https://www.codefactor.io/repository/github/apichat11oat/11pool/"
+
         },
         "50BTC" : {
             "name" : "50BTC",
