@@ -809,6 +809,10 @@
         "13usM2ns3f466LP65EY1h8hnTBLFiJV6rD" : {
             "name" : "AntPool",
             "link" : "https://www.antpool.com/"
+        },
+        "/Minerium.com/" : {
+            "name" : "Minerium",
+            "link" : "https://www.minerium.com/"
         }
     }
 }
