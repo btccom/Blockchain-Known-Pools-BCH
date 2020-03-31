@@ -120,7 +120,7 @@
         "11pool" : {
             "name" : "11pool",
             "link" : "https://11pool@slack.com/"
-                     >"11pool@BTC-US"
+                    ^"11pool@BTC-US"
 
         },
         "50BTC" : {
