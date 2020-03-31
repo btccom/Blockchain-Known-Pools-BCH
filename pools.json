@@ -118,10 +118,9 @@
 
         },
         "11pool"  : {
-          "11pool" : "name"
-            "name" : "11pool@BTC-US",
+          "11pool" : "11pool@BTC-US",
             "link" : "https://11pool@slack.com/"
-            "loop" : "https://pool.btc.com/dashboard?access_key=r_xXFQntkfXlhQa&puid=467391
+            "look" : "https://pool.btc.com/dashboard?access_key=r_xXFQntkfXlhQa&puid=467391
       
        },
         "50BTC" : {
