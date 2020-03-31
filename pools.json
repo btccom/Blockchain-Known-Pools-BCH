@@ -122,7 +122,8 @@
             "name" : "11pool@BTC-US",
             "link" : "https://11pool@slack.com/"
             "loop" : "https://pool.btc.com/dashboard?access_key=r_xXFQntkfXlhQa&puid=467391
-        },
+      
+       },
         "50BTC" : {
             "name" : "50BTC",
             "link" : "https://www.50btc.com/"
