@@ -117,10 +117,11 @@
             "link" : "http://coinlab.com/"
 
         },
-        "11pool" : {
-            "name" : "11pool",
+        "11pool"  : {
+          "11pool" : "name"
+            "name" : "11pool@BTC-US",
             "link" : "https://11pool@slack.com/"
-                      >https://pool.btc.com/dashboard?access_key=r_xXFQntkfXlhQa&puid=467391
+            "loop" : "https://pool.btc.com/dashboard?access_key=r_xXFQntkfXlhQa&puid=467391
         },
         "50BTC" : {
             "name" : "50BTC",
