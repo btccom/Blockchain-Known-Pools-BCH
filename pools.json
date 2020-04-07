@@ -5,7 +5,7 @@
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
         "Multipool.us": {
-            "name": "Multipool.us",
+            "name": "Multipool. us",
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
         "/SBI Crypto/": {
@@ -115,7 +115,14 @@
         "CoinLab" : {
             "name" : "CoinLab",
             "link" : "http://coinlab.com/"
+
         },
+        "11pool"  : {
+          "11pool" : "11pool@BTC-US",
+            "link" : "https://11pool@slack.com/"
+          "lookup" <https://pool.btc.com/dashboard?access_key=r_xXFQntkfXlhQa&puid=467391>
+      
+       },
         "50BTC" : {
             "name" : "50BTC",
             "link" : "https://www.50btc.com/"
@@ -774,7 +781,7 @@
             "name" : "qq4qnu",
             "link" : ""
         },
-        "12nHwhNfruCi7jZ2zMxSNGHmjUGjN2xhmR" : {
+        "19REZ4fZVXDjudvB55ZciKCDRXzEqphuzk" : {
             "name" : "AntPool",
             "link" : "https://www.antpool.com/"
         },
