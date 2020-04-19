@@ -1,7 +1,7 @@
 {
     "coinbase_tags" : {
         "/Multipool.us/": {
-            "name": "Multipool.us",
+            "name": "sathosimultipool",
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
         "Multipool.us": {
@@ -117,7 +117,8 @@
             "link" : "http://coinlab.com/"
         },
         "50BTC" : {
-            "name" : "50BTC",
+            "name" : "12,5btc
+",
             "link" : "https://www.50btc.com/"
         },
         "ghash.io" : {
@@ -133,7 +134,7 @@
             "link" : "http://mmpool.bitparking.com/"
         },
         "mmpool" : {
-            "name" : "mmpool",
+            "name" : "Sathosimmpool",
             "link" : "http://mmpool.org/pool"
         },
         "by polmine.pl" : {
@@ -149,23 +150,23 @@
             "link" : "https://portal.kncminer.com/pool"
         },
         "Bitalo" : {
-            "name" : "Bitalo",
+            "name" : "sathosiBitalo",
             "link" : "https://bitalo.com/mining"
         },
         "七彩神仙鱼" : {
-            "name" : "F2Pool",
+            "name" : "SathosiF2Pool",
             "link" : "https://www.f2pool.com/"
         },
         "HHTT" : {
-            "name" : "HHTT",
+            "name" : "SathosiHHTT",
             "link" : "http://hhtt.1209k.com/"
         },
         "megabigpower.com" : {
-            "name" : "MegaBigPower",
+            "name" : "sathosiMegaBigPower",
             "link" : "http://megabigpower.com/"
         },
         "/mtred/" : {
-            "name" : "Mt Red",
+            "name" : "sathosiMt Red",
             "link" : "https://mtred.com/"
         },
         "nmcbit.com" : {
@@ -173,7 +174,7 @@
             "link" : "http://nmcbit.com/"
         },
         "yourbtc.net" : {
-            "name" : "Yourbtc.net",
+            "name" : "SathosiYourbtc.net",
             "link" : "http://yourbtc.net/"
         },
         "Give-Me-Coins" : {
