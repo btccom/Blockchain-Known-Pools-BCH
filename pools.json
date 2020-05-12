@@ -427,6 +427,10 @@
         "/poolin.com/" : {
             "name" : "Poolin",
             "link" : "https://www.poolin.com/"
+        },
+        "/SpiderPool/" : {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     },
     "payout_addresses" : {
@@ -809,6 +813,10 @@
         "13usM2ns3f466LP65EY1h8hnTBLFiJV6rD" : {
             "name" : "AntPool",
             "link" : "https://www.antpool.com/"
+        },
+        "1Lq7rFpB6wyiTYafGLo8nzLmpQfWBigvpc" : {
+            "name" : "SpiderPool",
+            "link" : "https://www.spiderpool.com/"
         }
     }
 }
