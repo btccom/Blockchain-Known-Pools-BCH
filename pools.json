@@ -431,6 +431,18 @@
         "/SpiderPool/" : {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "/Binance/" : {
+            "name" : "Binance",
+            "link" : "https://pool.binance.com/"
+        },
+        "pool.binance.com" : {
+            "name" : "Binance",
+            "link" : "https://pool.binance.com/"
+        },
+        "/www.okex.com/" : {
+            "name" : "OKExPool",
+            "link" : "https://www.okex.com/pool"
         }
     },
     "payout_addresses" : {
