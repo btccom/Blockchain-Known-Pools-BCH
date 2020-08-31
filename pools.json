@@ -336,6 +336,10 @@
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
+        "/BTC.com/" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
         "/DCEX/" : {
             "name" : "DCEX",
             "link" : ""
@@ -667,6 +671,10 @@
             "link" : "https://pool.btc.com"
         },
         "3DBqiXhqvjdPsBWfA1y7tno6DmKLL9gZha" : {
+            "name" : "BTC.com",
+            "link" : "https://pool.btc.com"
+        },
+        "qrd9khmeg4nqag3h5gzu8vjt537pm7le85lcauzezc" : {
             "name" : "BTC.com",
             "link" : "https://pool.btc.com"
         },
