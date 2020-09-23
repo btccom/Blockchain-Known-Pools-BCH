@@ -447,6 +447,14 @@
         "/www.okex.com/" : {
             "name" : "OKExPool",
             "link" : "https://www.okex.com/pool"
+        },
+        "/MY7A/" : {
+            "name" : "MY7A",
+            "link" : ""
+        },
+        "Hath" : {
+            "name" : "Hath",
+            "link" : ""
         }
     },
     "payout_addresses" : {
@@ -837,6 +845,14 @@
         "1Lq7rFpB6wyiTYafGLo8nzLmpQfWBigvpc" : {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "17kNQCZv9hZGmZskcaJZx46J7hcpNkMY7A" : {
+            "name" : "MY7A",
+            "link" : ""
+        },
+        "1PCMvvaeKEsdXG1Cdx1uC7dHZPfqRfDq2C" : {
+            "name" : "Hath",
+            "link" : ""
         }
     }
 }
