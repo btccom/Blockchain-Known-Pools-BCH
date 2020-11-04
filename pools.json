@@ -437,11 +437,11 @@
             "link" : "https://www.spiderpool.com/"
         },
         "/Binance/" : {
-            "name" : "Binance",
+            "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
         "pool.binance.com" : {
-            "name" : "Binance",
+            "name" : "Binance Pool",
             "link" : "https://pool.binance.com/"
         },
         "/www.okex.com/" : {
