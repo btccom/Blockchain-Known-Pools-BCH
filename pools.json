@@ -451,6 +451,10 @@
         "/www.okex.com/" : {
             "name" : "OKExPool",
             "link" : "https://www.okex.com/pool"
+        },
+        "/很好矿池/" : {
+            "name" : "很好矿池",
+            "link" : ""
         }
     },
     "payout_addresses" : {
