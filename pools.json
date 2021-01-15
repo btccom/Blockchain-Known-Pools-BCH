@@ -8,11 +8,11 @@
             "name": "Multipool.us",
             "link": "https://www.multipool.us/dashboard/pool/bch"
         },
-        "/SBI Crypto/": {
+        "SBI Crypto": {
             "name": "SBI Crypto",
             "link": "https://sbicrypto.com"
         },
-        "/SBICrypto/": {
+        "SBICrypto": {
             "name": "SBI Crypto",
             "link": "https://sbicrypto.com"
         },
