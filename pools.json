@@ -451,6 +451,14 @@
         "/www.okex.com/" : {
             "name" : "OKExPool",
             "link" : "https://www.okex.com/pool"
+        },
+        "/Foundry USA Pool #dropgold/" : {
+            "name" : "Foundry USA",
+            "link" : "https://foundrydigital.com/"
+        },
+        "/SBICrypto.com Pool/" : {
+            "name" : "SBI Crypto",
+            "link" : "https://sbicrypto.com"
         }
     },
     "payout_addresses" : {
