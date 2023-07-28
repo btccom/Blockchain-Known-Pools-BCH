@@ -853,6 +853,10 @@
         "1Lq7rFpB6wyiTYafGLo8nzLmpQfWBigvpc" : {
             "name" : "SpiderPool",
             "link" : "https://www.spiderpool.com/"
+        },
+        "qrzf7nwy52j98rs5aped95ah3l42884wavaqp6vv4t" : {
+            "name" : "Binance Pool",
+            "link" : "https://pool.binance.com/"
         }
     }
 }
