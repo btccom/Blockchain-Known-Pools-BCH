@@ -337,12 +337,16 @@
             "link" : "https://bch.waterhole.io/"
         },
         "/BTC.COM/" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "/BTC.com/" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
+        },
+        "/CloverPool/" : {
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "/DCEX/" : {
             "name" : "DCEX",
@@ -675,24 +679,24 @@
             "link" : "http://viabtc.com/"
         },
         "3NA8hsjfdgVkmmVS9moHmkZsVCoLxUkvvv" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "3EhLZarJUNSfV6TWMZY1Nh5mi3FMsdHa5U" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "3DBqiXhqvjdPsBWfA1y7tno6DmKLL9gZha" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "qrd9khmeg4nqag3h5gzu8vjt537pm7le85lcauzezc" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "198xLnUH1dNX5fLKdRx3VSCVehrs2xJCK4" : {
-            "name" : "BTC.com",
-            "link" : "https://pool.btc.com"
+            "name" : "CloverPool",
+            "link" : "https://cloverpool.com"
         },
         "18EPLvrs2UE11kWBB3ABS7Crwj5tTBYPoa" : {
             "name" : "GoGreenLight",
