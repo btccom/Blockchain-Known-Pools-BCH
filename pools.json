@@ -463,6 +463,10 @@
         "/SBICrypto.com Pool/" : {
             "name" : "SBI Crypto",
             "link" : "https://sbicrypto.com"
+        },
+        "solopool.org":{
+            "name" : "SoloPool",
+            "link" : "https://solopool.org"
         }
     },
     "payout_addresses" : {
